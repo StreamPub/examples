@@ -1,0 +1,13 @@
+{
+  "name": "stream-examples",
+  "version": "0.1.0",
+  "license": "MIT",
+  "homepage": "https://stream.pub",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StreamPub/examples.git"
+  },
+  "dependencies": {
+    "request-promise": "~4.1.1"
+  }
+}
